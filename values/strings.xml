@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothConnector</string>
+    <string name="btn_str1">Hello Bluetooth</string>
+    <string name="btn_str2">Bye Bluetooth</string>
+</resources>
